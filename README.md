@@ -1,16 +1,16 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-#COMPANY:CODTECH IT SOLUTIONS
+#COMPANY: CODTECH IT SOLUTIONS
 
-#NAME:PRIYANKA MAURYA
+#NAME: PRIYANKA MAURYA
 
-#INTERN ID:CTIS8063
+#INTERN ID: CTIS8063
 
-#DOMAIN:PYTHON PROGRAMMING
+#DOMAIN: PYTHON PROGRAMMING
 
-#DURATION:6 WEEKS
+#DURATION: 6 WEEKS
 
-#MENTOR:NEELA SANTOSH
+#MENTOR: NEELA SANTOSH
 
 #DESCRIPTION: This project focuses on API integration and data visualization using the Python programming language. The main objective of this task is to understand how to fetch real-time data from an external source and represent it in a graphical format for better understanding and analysis. In this project, weather data is collected using the API provided by OpenWeatherMap, which allows users to access live weather information such as temperature, humidity, and weather conditions of different cities. To perform this task, I used Python along with important libraries like requests and matplotlib. The requests library is used to send HTTP requests to the API and retrieve data in JSON format, while matplotlib is used to create visual representations such as bar graphs. For writing and executing the code, I used Visual Studio Code, which is a powerful and user-friendly code editor that supports Python programming. Additionally, I used GitHub to store and manage my project files, which also helps in version control and sharing the project with others.
 
