@@ -20,5 +20,5 @@ This project has several real-world applications. It can be used in weather moni
 
 #OUTPUT: 
 
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/5a660f10-8d51-4497-a00a-b8975dbd3306" />
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/b77b19f7-3505-4d6e-97f5-7bbc103b863d" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/5a660f10-8d51-4497-a00a-b8975dbd3306" />
